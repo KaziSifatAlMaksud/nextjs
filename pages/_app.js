@@ -4,7 +4,6 @@ import { config } from '@fortawesome/fontawesome-svg-core'
 import '../node_modules/@fortawesome/fontawesome-svg-core/styles.css'
 import '@fortawesome/fontawesome-svg-core/styles.css'
 config.autoAddCss = false
-import bgimg from '../public/homebg.jpg'
 import "../public/css/style.css"
 
 import Cards from "../pages/component/Cards"
@@ -14,7 +13,7 @@ export default function Home() {
     <>
     <div style={{zIndex: -1, position:"fixed", width:"100vw", height:"100vh" }}>
       <Image
-          src={bgimg} 
+          src="https://as1.ftcdn.net/v2/jpg/01/41/39/68/1000_F_141396838_vCmx0QtzOzCsNFbgTfFPMBsXtZ4Uwwqh.jpg"
           alt="background"
           layout="fill"
           objectFit='cover'
