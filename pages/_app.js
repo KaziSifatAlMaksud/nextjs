@@ -13,12 +13,12 @@ export default function Home() {
   return (
     <>
     <div style={{zIndex: -1, position:"fixed", width:"100vw", height:"100vh" }}>
-      <Image
+      {/* <Image
           src={bgimg} 
           alt="background"
           layout="fill"
           objectFit='cover'
-        />
+        /> */}
     </div>
      
     <div className="home" >   
