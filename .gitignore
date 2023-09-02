@@ -43,7 +43,7 @@ package-lock.json
 *.tmp
 
 # Compiled binary files
-*.jpg
+# *.jpg
 *.jpeg
 *.png
 *.gif
