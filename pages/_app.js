@@ -1,8 +1,9 @@
+import React from 'react';
 import { config } from '@fortawesome/fontawesome-svg-core'
 import '../node_modules/@fortawesome/fontawesome-svg-core/styles.css'
 import '@fortawesome/fontawesome-svg-core/styles.css'
 config.autoAddCss = false
-import img from "../public/homebg.jpg"
+import homebg from '../homebg.jpg';
 import "../public/css/style.css"
 import Cards from "../pages/component/Cards"
 
