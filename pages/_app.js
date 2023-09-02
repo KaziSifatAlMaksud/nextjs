@@ -4,7 +4,7 @@ import { config } from '@fortawesome/fontawesome-svg-core'
 import '../node_modules/@fortawesome/fontawesome-svg-core/styles.css'
 import '@fortawesome/fontawesome-svg-core/styles.css'
 config.autoAddCss = false
-import bgimg from '../public/homebg.jpg'
+// import bgimg from '../public/homebg.jpg'
 import "../public/css/style.css"
 
 import Cards from "../pages/component/Cards"
